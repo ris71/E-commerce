@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(208, 208, 224);
+}
+.carousel-item img{
+    width: 100%;
+    height: 500px;
+    display: block;
+    text-align:center;
+}
+.row img{
+     height:500px;
+}
+.card img{
+    height:100px;
+    
+    
+}
